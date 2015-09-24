@@ -9,7 +9,7 @@ Here you can create/update & delete cool and colorful sticky notes with lots of 
 <h3>Setup:</h3>
 
 1. Clone the repository to your computer.
-2. Clone Tom Blackmore's memoryDataService to the root of this application from "https://github.com/tablackmore/memoryDataService" and install according to the instructions.
+2. Clone Tom Blackmore's memoryDataService to the root of this application (The empty map shows where it should be) from "https://github.com/tablackmore/memoryDataService" and install it according to the instructions.
 3. Open the terminal and get to the applications root map.
 4. Run the app by "grunt serve".
 5. "cd" into memoryDataService and run "node index.js".
