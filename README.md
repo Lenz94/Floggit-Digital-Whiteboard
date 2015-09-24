@@ -1,10 +1,10 @@
-Floggit Digital Whiteboard!
+<h2>Floggit Digital Whiteboard</h2>
 Here you can create/update & delete cool and colorful sticky notes with lots of content.
 
-Requiremments:
+<h3>Requirements:</h3>
 - NodeJS
 
-Setup:
+<h3>Setup:</h3>
 
 1. Clone the repository to your computer.
 2. Open the terminal and get to the applications root map.
