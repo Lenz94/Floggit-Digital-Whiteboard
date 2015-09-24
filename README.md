@@ -5,6 +5,7 @@ Requiremments:
 - NodeJS
 
 Setup:
+
 1. Clone the repository to your computer.
 2. Open the terminal and get to the applications root map.
 3. Run the app by "grunt serve".
