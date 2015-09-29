@@ -1,4 +1,7 @@
 <h2>Floggit Digital Whiteboard</h2>
+
+![alt tag](https://raw.github.com/Lenz94/Floggit-Digital-Whiteboard/master/screenshots/screenshot.png)
+
 Here you can create/update & delete cool and colorful sticky notes with lots of content.
 
 <h3>Requirements:</h3>
